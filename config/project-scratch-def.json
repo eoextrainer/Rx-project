@@ -1,0 +1,10 @@
+{
+  "orgName": "EOEX - Rx Project",
+  "edition": "Developer",
+  "hasSampleData": false,
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}
